@@ -73,6 +73,6 @@ tl.from("#page", {
 gsap.to("#page", {
     scrollTrigger: {
         trigger: "#page",
-        // markers: true,
+        markers: true,
     }
 })
