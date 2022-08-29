@@ -336,8 +336,8 @@ a:hover{
 
 #display>#para{
     position: absolute;
-    right: 5%;
-    bottom: -45%;
+    right: 3%;
+    bottom: -50%;
     width: 500px;
     height: 400px;
 }
