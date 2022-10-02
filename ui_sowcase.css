@@ -27,7 +27,7 @@ body {
     position: absolute;
     /* display: flex; */
     left: 50%;
-    top: 50%;
+    top: 60%;
     transform: translate(-50%, -50%);
     border-radius: 15px;
     box-shadow: 0 0 10px 1px lightgray;
@@ -419,6 +419,10 @@ span>h4 {
     padding: 100px 15px 15px;
     background-color: #fff;
     cursor: pointer;
+}
+
+#display2::-webkit-scrollbar{
+    display: none;
 }
 
 .stock>.details {
